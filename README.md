@@ -25,4 +25,5 @@ Apasionado por la tecnología y entusiasmado por dar mis primeros pasos profesio
 
 📱 +297 744 2153
 
-
+🛠️ Lenguajes y herramientas :
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,git,github,gmail,vscode)](https://skillicons.dev)
